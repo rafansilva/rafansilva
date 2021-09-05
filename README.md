@@ -37,7 +37,9 @@
  </div>
  
  ##
- 
+ <div align="center">
+  
  ![Snake animation](https://github.com/rafansilva/rafansilva/blob/output/github-contribution-grid-snake.svg)
-
+  
+ </div>
 
