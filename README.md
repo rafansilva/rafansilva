@@ -1,36 +1,52 @@
 <h2>Hey 👋, I'm Rafael</h2>
-  
-<div>
-  <img width="40%" align="center"  alt="Rafa-wazzup" src="https://media.giphy.com/media/3hxk2aOwWmfOU/giphy.gif?cid=ecf05e47cu9cv002kawa09grm9omljzhm0ehap94s6i8vo3d&rid=giphy.gif&ct=g">
-</div>
 
-##
+<p>I'm a Full Stack Developer based in São Paulo. Besides coding, I'm also likes games, watch movies and series!</p>
 
-<div>
-      <img align="center" alt="RAFA-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="RAFA-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="RAFA-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="RAFA-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-   <img align="center" alt="RAFA-REACTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="RAFA-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
-   <img align="center" alt="RAFA-PHP" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="RAFA-MYSQL" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt="RAFA-LINUX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-      
-  <a href="https://www.t.me/rafansilva" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/_rafanas_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafansilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<p>
+<a href="https://www.linkedin.com/in/rafansilva" target="_blank"><img src="https://img.shields.io/badge/-@rafansilva-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.t.me/rafansilva" target="_blank"><img src="https://img.shields.io/badge/-@rafansilva-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<a href="https://open.spotify.com/user/fiqc2yiv0t5ojaee0rbxkoqna" target="_blank"><img src="https://img.shields.io/badge/-@rafansilva-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+</p>
 
-##
+<img align="right" width="40%" align="center"  alt="Rafa-wazzup" src="https://media.giphy.com/media/3hxk2aOwWmfOU/giphy.gif?cid=ecf05e47cu9cv002kawa09grm9omljzhm0ehap94s6i8vo3d&rid=giphy.gif&ct=g">
 
- <div>
- <a href="https://github.com/rafansilva">
-  <img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafansilva&theme=blue-green&include_all_commits=true&count_private=true" alt="stats" />
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🚀 I will become a Full Cycle Developer</li>
+<li>🧐 Learning a lot about <strong>software architectures</strong>, <strong>development</strong>, and <strong>devops</strong>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/rafansilva">Github</a>.</li>
+</ul>
+
+<h2>🔭 Stuff I :heart: working with</h2>
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="bootstrap" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" /
+<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
+
+</p>
+
+<h2></h2>
+
+<p>
+<a href="https://github.com/rafansilva">
+<img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafansilva&theme=blue-green&include_all_commits=true&count_private=true" alt="stats" />
 </a>
- </div>
+</p>
  
- ##
+<h2></h2>
+
  <div align="center">
   
  ![Snake animation](https://github.com/rafansilva/rafansilva/blob/output/github-contribution-grid-snake.svg)
