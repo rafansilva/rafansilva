@@ -13,7 +13,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🚀 I will become a Full Cycle Developer</li>
-<li>🧐 Learning a lot about <strong>software architectures</strong>, <strong>development</strong>, and <strong>devops</strong>.</li>
+<li>🧐 Learning about <strong>software architectures</strong>, <strong>development</strong>, and <strong>devops</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/rafansilva">Github</a>.</li>
 </ul>
 
