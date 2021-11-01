@@ -44,13 +44,11 @@
 <img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafansilva&theme=blue-green&include_all_commits=true&count_private=true" alt="stats" />
 </a>
 </p>
- 
+
 <h2></h2>
 
- <div align="center">
-  
- ![Snake animation](https://github.com/rafansilva/rafansilva/blob/output/github-contribution-grid-snake.svg)
-  
- </div>
+<div align="center">
 
-3
+![Snake animation](https://github.com/rafansilva/rafansilva/blob/output/github-contribution-grid-snake.svg)
+
+</div>
