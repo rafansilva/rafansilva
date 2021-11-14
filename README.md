@@ -12,12 +12,11 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🚀 I will become a Full Cycle Developer</li>
 <li>🧐 Learning about <strong>software architectures</strong>, <strong>development</strong>, and <strong>devops</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/rafansilva">Github</a>.</li>
 </ul>
 
-<h2>🔭 Stuff I :heart: working with</h2>
+<h2>🚀 Stuff I :heart: working with</h2>
 <p align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
