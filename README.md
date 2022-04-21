@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm Rafael</h2>
 
-<p>I'm a Backend Developer based in São Paulo. Besides coding, I'm also likes games, watch movies and series!</p>
+<p>I'm a Backend Developer based in São Paulo. Besides coding, I'm also like games, watch movies and series!</p>
 
 <p>
 <a href="https://www.linkedin.com/in/rafansilva" target="_blank"><img src="https://img.shields.io/badge/-@rafansilva-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
