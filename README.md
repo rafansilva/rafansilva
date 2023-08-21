@@ -8,8 +8,6 @@
 <a href="https://open.spotify.com/user/fiqc2yiv0t5ojaee0rbxkoqna" target="_blank"><img src="https://img.shields.io/badge/-@rafansilva-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
 </p>
 
-<img align="right" width="60%" align="center"  alt="Rafa-wazzup" src="https://media.giphy.com/media/3hxk2aOwWmfOU/giphy.gif?cid=ecf05e47cu9cv002kawa09grm9omljzhm0ehap94s6i8vo3d&rid=giphy.gif&ct=g">
-
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🧐 Learning about <strong>software architectures</strong>, <strong>development</strong> and <strong>devops</strong>.</li>
