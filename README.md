@@ -35,11 +35,3 @@
 </p>
 
 <h2></h2>
-
-<p>
-<a href="https://github.com/rafansilva">
-<img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafansilva&theme=blue-green&include_all_commits=true&count_private=true" alt="stats" />
-</a>
-</p>
-
-<h2></h2>
