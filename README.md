@@ -4,7 +4,6 @@
 
 <p>
 <a href="https://www.linkedin.com/in/rafansilva" target="_blank"><img src="https://img.shields.io/badge/-@rafansilva-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://open.spotify.com/user/fiqc2yiv0t5ojaee0rbxkoqna" target="_blank"><img src="https://img.shields.io/badge/-@rafansilva-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
 </p>
 
 <h2>⚡️ A Few Quick Facts</h2>
